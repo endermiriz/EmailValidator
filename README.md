@@ -1,4 +1,4 @@
-# EmailValidator
+# Email Validator
 It is an automation program that checks whether email addresses are real, whether they exist and whether they are a validated mail.
 
 Required libraries:
